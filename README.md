@@ -6,7 +6,7 @@ Food2Play is a website that takes recipes from the internet and transforms them 
 
 #Running food2play
 For now, you can only run food2play on your local machine. <br/>
-> Clone the repository onto your machine
-> Go to the frontend directory
-> In terminal, type ```npm run dev```
+> Clone the repository onto your machine<br/>
+> Go to the frontend directory<br/>
+> In terminal, type ```npm run dev```<br/>
 > Go to localhost:3000 in your browser and you're all set!
